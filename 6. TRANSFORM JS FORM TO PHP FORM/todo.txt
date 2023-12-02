@@ -1,0 +1,5 @@
+- what are the security issues in this website ?
+    => client can see password and protected content
+ My answer is: client can see your password, don't hidden password because type's input is text
+- how to correct using PHP
+    => type's password is password.
